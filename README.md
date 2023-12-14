@@ -25,4 +25,4 @@
 1. Clone the repo to your machine: `git clone https://github.com/Skoolgq/Polaris.git && cd Polaris`
 2. Install Dependencies: `npm install`
 3. Start the app: `npm start`
-4. Visit [localhost:8080](http://localhost:8080) for your local Polaris!
+4. Visit [localhost:8080](http://localhost:8080) for your local Polaris!!
